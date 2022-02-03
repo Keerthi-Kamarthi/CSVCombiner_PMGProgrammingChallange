@@ -9,4 +9,4 @@ python PMG_CombineCSV.py ./fixtures/accessories.csv ./fixtures/clothing.csv ./fi
 
 and for CSVCombiner_UnitTest file:
 
-python -m unittest test CSVCombiner_UnitTest -v
+python -m unittest CSVCombiner_UnitTest -v
